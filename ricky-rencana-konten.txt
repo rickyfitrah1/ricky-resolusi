@@ -3,7 +3,11 @@ RENCANA KONTEN RICKY
 - Javascript
   * Jquery
   * Node.js
+  ^ Vue
+  ^ React
 - Materi Dasar Phyton
 - PHP
 - PHP Framework (CI 3)
+  ^ Laravel
 - CSS
+  ^ Bootstrap
