@@ -2,3 +2,4 @@ Resolusi Ricky
 - Memahami konsep pembuatan web developer menggunakan PHP, Javascript, CSS, CSS Framework (Bootstrap)
 - Membuat konten web untuk yayasan Al-Amanah
 - Membuat konten portfolio untuk melamar pekerjaan
+- Ikut kajian rutin durushul lughah jilid 1 - 6
