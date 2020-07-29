@@ -4,6 +4,7 @@ RENCANA KONTEN RICKY
   * Jquery
   * Node.js
   ^ Vue
+  ^ React
 - Materi Dasar Phyton
 - PHP
 - PHP Framework (CI 3)
