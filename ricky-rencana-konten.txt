@@ -3,6 +3,7 @@ RENCANA KONTEN RICKY
 - Javascript
   * Jquery
   * Node.js
+- Materi Dasar Phyton
 - PHP
 - PHP Framework (CI 3)
 - CSS
