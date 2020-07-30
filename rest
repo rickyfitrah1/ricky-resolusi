@@ -1,2 +1,3 @@
 - Pelajari dokumentasi jquery ajax
 - Pelajari dokumentasi php
+- Pelajari SOP Ajax
